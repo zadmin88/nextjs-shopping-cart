@@ -1,6 +1,7 @@
 import React from 'react';
-import ShippingAddressForm from '../components/forms/shipping';
+
 import { useSelector, useDispatch } from 'react-redux';
+import ShippingAddressForm from '../components/forms/Shipping';
 import {
   Progress,
   Card,
